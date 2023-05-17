@@ -17,8 +17,8 @@
 
 
 ## Database
-- ### SQL
-- ### TypeORM
+- ### [SQL](./database/SQL/index.md)
+- ### [TypeORM](./database/TypeORM/index.md)
   
 ## Operation
 - ### [github action](./operation/githubAction.md)

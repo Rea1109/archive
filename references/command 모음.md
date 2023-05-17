@@ -43,13 +43,15 @@
     ```shell
     pwd
 
-    cd [PATH]
+    cd [path]
 
     ls 
 
     ls -al : 숨긴파일까지 모두 보기
 
     mkdir [folder name] 
+
+    touch [file name]
 
     rm -rf [folder name] : rf 폴더안에 다른 폴더 파일들을 순회하면서 강제로 지움
 

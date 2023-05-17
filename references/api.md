@@ -1,5 +1,5 @@
 ## API (rest / graphql)
----
+
 > 응용프로그램과 대화하는 방법
 > HTTP 요청을 받은 Back-end 에서 실행되는 기능   
 >Back-end 로부터 받은 리턴 받은 값은 <b style='color:#03a9f4;'>JSON</b> 형식으로 옴
